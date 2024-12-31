@@ -16,6 +16,11 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
 ![Alt text](./imagem_2024-12-31_140422361.png "Optional title")
+
+
+### O que pode ter dado errado
+
+Talvez porque eu acessei do próprio Kali, ou por causa da instalação, aconteceu algumas coisas erradas e eu tive que instalar pelo boot do Vbox, demorou muito e eu só fui dando enter, creio que isso pode ter feito alguma coisa dar errado.
